@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World 3rd</title>
+      <link href="/hello-world/"/>
+      <url>/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>大家好，这里是小炎。<br>目前你看的是重建中的博客。<br>至于为什么，是因为之前的主题被我玩坏了（<br>在重置前我已经做好了备份，所以不会有什么大问题。<br>目前依旧在重建中，敬请稍安勿躁。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 公告 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hello World </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
