@@ -31,6 +31,35 @@
     
     
     <entry>
+      <title>（对新人的）东方Project常用旋律指南</title>
+      <link href="/th-melody/"/>
+      <url>/th-melody/</url>
+      
+        <content type="html"><![CDATA[<p><em>先声明一下，我本人对乐理和编曲是超级不了解（菜鸡等级）的。<br>所以如果有说错的，烦请指正😂</em><br><a id="more"></a></p><hr><p>这篇文章是给那些对东方Project的旋律比较好奇的同学看的。<br>可能你在玩东方作品的时候会注意到，从红魔乡开始，标题界面曲总是有一段是有些相似的旋律，听起来像是&lt;好我们这里插一个音频&gt;。<br>以及我们熟悉的疮痍曲、暂停音效，这些旋律到底是怎么个调子呢？<br>接下来我将一一介绍。</p><h2 id="标题主旋律（俗称ZUN节）"><a href="#标题主旋律（俗称ZUN节）" class="headerlink" title="标题主旋律（俗称ZUN节）"></a>标题主旋律（俗称ZUN节）</h2><p>在ZUN做的STG里标题曲中一定会有的旋律。用简谱的话大概是：<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">6 2 3 5 3 2</span><br></pre></td></tr></table></figure>这段旋律就是我们说的「标题主旋律」，也就是「ZUN节」。<br>实际上ZUN把ZUN节专门写成了一首曲子，命名为《<a href="https://thwiki.cc/-/fr2" target="_blank" rel="noopener">Theme of Eastern Story</a>》（テーマ・オブ・イースタンストーリー，幺乐团的历史 vol.5，2007）。<br>但实际上，目前这段旋律最明显的出处，是在西方的《秋霜玉》中ZUN给这个游戏谱的曲子《<a href="https://thwiki.cc/-/ftq" target="_blank" rel="noopener">Silk Road Alice</a>》（丝绸之路的爱丽丝/シルクロードアリス，秋霜玉，2000）。只不过当时还没红魔乡（2002），整个东方还在旧作时代的末期，这段旋律也不过是旧作开场时候的小型开幕曲而已（<a href="https://thwiki.cc/-/1tak" target="_blank" rel="noopener">「ZUN Soft」表示音</a>，东方怪绮谈，1998）。再早的话就更不知道了。<br>说回《Theme of Eastern Story》。之前写的那段在曲子开始时是出现了的。但是和我们在游戏里听到的总觉得不一样。<br>我们常听到的ZUN节，开头的 <code>6</code> 是降调了的，也就是：<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">-6 2 3 5 3 2</span><br></pre></td></tr></table></figure>这里的负号表示比定下来的调子降一个调。现在听起来就好多了。<br>然后循环三遍再加另一些音节，就更加熟悉了：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">-6 2 3 5 3 2 -6 2 3 5 3 2 -6 2 3 5 3 2 -7 1 -7 -5</span><br></pre></td></tr></table></figure>然后可以整体升降调，就差不多可以用了。<br>需要注意的是，依据游戏的不同，ZUN会Arrange ZUN节<del>（我编我自己的曲）</del>，同时标题曲会额外加一些谱子，不是纯粹的ZUN节。<br>这个时候就考验编曲技术了，节哀吧（不是）。</p><h2 id="暂停音效"><a href="#暂停音效" class="headerlink" title="暂停音效"></a>暂停音效</h2><p>虽然只是音效，但是听多了，稍微注意一下就会发现，暂停音效其实是ZUN节的改版。<br>而且改得很简单。最简单的写法就是把第五个音（ <code>3</code> ）换成第四个音后面一个（ <code>6</code> ）。一种「戛然而止」感就出来了。<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">-6 2 3 5 6</span><br></pre></td></tr></table></figure></p><h2 id="疮痍曲"><a href="#疮痍曲" class="headerlink" title="疮痍曲"></a>疮痍曲</h2><p>疮痍曲本名叫《<a href="https://thwiki.cc/-/fqs" target="_blank" rel="noopener">Player’s Score</a>》，是ZUN从风神录开始，「因为游戏结束后没有声音感觉很寂寥」而增加的得分界面记录曲。原型就是同在风神录中的<a href="https://thwiki.cc/-/fjv" target="_blank" rel="noopener">神妈的曲子</a>。<br>这首曲子有两个版本，第一版从风神录开始用到了星莲船。从大战争开始，「借着游戏弄得轻快了点」，也就变成了直到现在都还在用的所谓「轻快」的「地狱糟曲」。<br>要写这个谱子也很简单，首先先写其中一条：<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">6 3 2 1 -6 1 2 3</span><br></pre></td></tr></table></figure>如果现在播放的话，你会感觉到「嗯，是这个调」，但总觉得少什么。<br>这个时候，把上面写好的谱子，整体降一个调，比如：<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">-6 -3 -2 -1 --6 -1 -2 -3</span><br></pre></td></tr></table></figure>然后将两个谱子交叉插在一起，降调先排第一个：<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">-6 6 -3 3 -2 2 -1 1 --6 -6 -1 1 -2 2 -3 3</span><br></pre></td></tr></table></figure>一首超级简单的疮痍曲就写好了。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 手札 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 东方 </tag>
+            
+            <tag> 同人 </tag>
+            
+            <tag> 音乐 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【汉化补丁】黄昏酒场 汉化补丁</title>
       <link href="/alcostg-cn/"/>
       <url>/alcostg-cn/</url>
@@ -65,6 +94,37 @@
       <url>/thx-pro/</url>
       
         <content type="html"><![CDATA[<p><img src="/images/thx_pro/THX21.png" alt="Launch Snapshot"><br>SeiweLL大佬别打我（怂.jpg</p><a id="more"></a><p>大家好，这里是小炎酱。<br>这次给大家带来的是《东方百花宴》的Pro皮肤补丁。<br>（众：Pro？什么鬼？）<br>自从发了夏夜祭雪莲花皮肤后，我就开始着手百花宴皮肤的制作，<br>因为感觉原版太丑了（雾）（SeiweLL大佬别打我x2）<br>于是就做了这个补丁（怂</p><h2 id="补丁内容"><a href="#补丁内容" class="headerlink" title="补丁内容"></a>补丁内容</h2><ul><li>由自己设计的百花宴Pro版皮肤。</li></ul><h2 id="界面截图"><a href="#界面截图" class="headerlink" title="界面截图"></a>界面截图</h2><p><img src="/images/thx_pro/THX22.png" alt="Snapshot01"></p><p><img src="/images/thx_pro/THX24.png" alt="Snapshot02"></p><p><img src="/images/thx_pro/THX23.png" alt="Snapshot03"></p><p><img src="/images/thx_pro/THX20.png" alt="Snapshot04"></p><h2 id="版本与下载"><a href="#版本与下载" class="headerlink" title="版本与下载"></a>版本与下载</h2><p>当前版本：ver 1.00，支援ver 1.00b<br><a href="https://pan.baidu.com/s/17u2j4zb1r0yvCtwsqrglJg" target="_blank" rel="noopener">百度网盘下载（提取码：fspr）</a></p><h2 id="十分简短的Staff"><a href="#十分简短的Staff" class="headerlink" title="十分简短的Staff"></a>十分简短的Staff</h2><p>原作：SlimeSmile<br>原程序：SeiweLL<br>皮肤设计&amp;制作：小炎 (Yanstime)</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 游戏 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 东方 </tag>
+            
+            <tag> 同人 </tag>
+            
+            <tag> 东方魔改 </tag>
+            
+            <tag> 皮肤 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【STG皮肤】东方夏夜祭 雪莲华皮肤</title>
+      <link href="/thsss-xlh/"/>
+      <url>/thsss-xlh/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/images/thsss_xlh/thxlh01.jpg" alt="Launch Snapshot"><br>没有雪莲华玩我要死了（<br><a id="more"></a><br>大家好，这里是小炎酱。<br>这次给大家带来的是《东方夏夜祭》雪莲华皮肤补丁。<img src="https://tb2.bdstatic.com/tb/editor/images/face/i_f25.png?t=20140803" alt><br>（众：打个飞机要什么皮肤啊喂！- -|||）<br>事情得从发了<a href="https://tieba.baidu.com/p/5539716249" target="_blank" rel="noopener">伪雪莲华标题界面</a>说起，<br>发了之后觉得咋不把夏夜祭“改成”雪莲华呢？<br>于是就做了这个补丁（怂</p><h2 id="补丁内容"><a href="#补丁内容" class="headerlink" title="补丁内容"></a>补丁内容</h2><ul><li>主体：除了主游戏界面外的所有界面均会变成（由我自己设计的）伪雪莲华的样子。</li><li>EX补丁：打入通常版补丁后，再打入EX补丁可以修改标题界面BGM为《东方雪莲华》（真）OP《盛开在净土的莲花》。</li></ul><h2 id="界面截图"><a href="#界面截图" class="headerlink" title="界面截图"></a>界面截图</h2><p><img src="/images/thsss_xlh/thxlh02.jpg" alt="Snapshot01"> </p><p><img src="/images/thsss_xlh/thxlh03.jpg" alt="Snapshot02"><br><img src="/images/thsss_xlh/thxlh04.jpg" alt="Snapshot03"> </p><p><img src="/images/thsss_xlh/thxlh05.jpg" alt="Snapshot04"></p><h2 id="版本与下载"><a href="#版本与下载" class="headerlink" title="版本与下载"></a>版本与下载</h2><p>当前版本：ver 1.00<br><a href="https://pan.baidu.com/s/1jKcQ0SI" target="_blank" rel="noopener">百度网盘下载（提取码：fasl）</a>（含本体和EX补丁）：</p><h2 id="十分简短的Staff"><a href="#十分简短的Staff" class="headerlink" title="十分简短的Staff"></a>十分简短的Staff</h2><p>原作：雨夜枫雪制作组<br>原程序：SeiweLL<br>皮肤设计&amp;制作：小炎 (Yanstime)</p><h2 id="关于《东方雪莲华》"><a href="#关于《东方雪莲华》" class="headerlink" title="关于《东方雪莲华》"></a>关于《东方雪莲华》</h2><p>这是雨夜枫雪制作组的新的《东方Project》同人游戏企划，目前尚处于制作阶段。<br>相关的内容可以查看这个 开发进度演示 <a href="http://www.bilibili.com/video/av16461198" target="_blank" rel="noopener">（P1）</a><a href="https://www.bilibili.com/video/av21379275" target="_blank" rel="noopener">（P2）</a>以及关注制作组主催<del>爬塔炼金MITE除了写程序都样样精通的</del><a href="https://space.bilibili.com/615282" target="_blank" rel="noopener">北欧晨风</a>的 <a href="https://live.bilibili.com/769102" target="_blank" rel="noopener">B站直播间</a> 。<br>同时欢迎加入雪莲华围观交流群：<a href="http://qm.qq.com/cgi-bin/qm/qr?k=rkmBRmYA44ODJEvuNDrzYUf0C1Pp-5RC" target="_blank" rel="noopener">451304793</a></p>]]></content>
       
       
       <categories>
