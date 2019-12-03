@@ -22,6 +22,68 @@
             
             <tag> Hello World </tag>
             
+            <tag> 公告 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【汉化补丁】黄昏酒场 汉化补丁</title>
+      <link href="/alcostg-cn/"/>
+      <url>/alcostg-cn/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>本文章首发于东方相关论坛<a href="http://bbs.nyasama.com/?fromuid=222840" target="_blank" rel="noopener">喵玉殿</a>：<a href="http://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=77633" target="_blank" rel="noopener">http://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=77633</a></p></blockquote><p><img src="/images/alcostg_cn/alstg01.png" alt="Launch Snapshot"></p><p>这次带来的是由ZUN参与制作的《黄昏酒场》，游戏的汉化补丁。<br><a id="more"></a><br>说起来以前六神还希望汉化组来做的，不知道有没有汉化组做（<br>总之，出于好奇，我就做了个汉化补丁<br>当然由于自己根本没日语水平，所以汉化是参考THBWiki和Touhou Patch Center的资料制作的，<br>不过界面效果基本很还原很传神就是了<del>（果然我只会PS）</del><br>在此感谢THBWiki和Touhou Patch Center的翻译~</p><h2 id="补丁内容"><a href="#补丁内容" class="headerlink" title="补丁内容"></a>补丁内容</h2><ul><li>alcostg_cn.exe<br>汉化的主程序，可以防止符卡名乱码</li><li>alstgCN.dat<br>汉化的dat，包括贴图和符卡名汉化</li></ul><h2 id="界面截图"><a href="#界面截图" class="headerlink" title="界面截图"></a>界面截图</h2><p><img src="/images/alcostg_cn/alstg02.png" alt="Snapshot01"></p><p><img src="/images/alcostg_cn/alstg03.png" alt="Snapshot02"></p><p><img src="/images/alcostg_cn/alstg04.png" alt="Snapshot03"></p><h2 id="版本与下载"><a href="#版本与下载" class="headerlink" title="版本与下载"></a>版本与下载</h2><p>当前版本供ver 1.00a使用</p><p><a href="http://pan.baidu.com/s/15mPJVrCJTa-u7uvKqeL8WQ" target="_blank" rel="noopener">百度网盘下载（提取码：alst）</a></p><h2 id="十分简短的Staff"><a href="#十分简短的Staff" class="headerlink" title="十分简短的Staff"></a>十分简短的Staff</h2><p>原作： 呑んべぇ会<br>原程序：ZUN<br>补丁制作：小炎 (Yanstime)<br>资料参考：THBWiki、Touhou Patch Center</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 游戏 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 东方 </tag>
+            
+            <tag> 同人 </tag>
+            
+            <tag> 汉化 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【STG皮肤】东方百花宴 Pro版皮肤</title>
+      <link href="/thx-pro/"/>
+      <url>/thx-pro/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/images/thx_pro/THX21.png" alt="Launch Snapshot"><br>SeiweLL大佬别打我（怂.jpg</p><a id="more"></a><p>大家好，这里是小炎酱。<br>这次给大家带来的是《东方百花宴》的Pro皮肤补丁。<br>（众：Pro？什么鬼？）<br>自从发了夏夜祭雪莲花皮肤后，我就开始着手百花宴皮肤的制作，<br>因为感觉原版太丑了（雾）（SeiweLL大佬别打我x2）<br>于是就做了这个补丁（怂</p><h2 id="补丁内容"><a href="#补丁内容" class="headerlink" title="补丁内容"></a>补丁内容</h2><ul><li>由自己设计的百花宴Pro版皮肤。</li></ul><h2 id="界面截图"><a href="#界面截图" class="headerlink" title="界面截图"></a>界面截图</h2><p><img src="/images/thx_pro/THX22.png" alt="Snapshot01"></p><p><img src="/images/thx_pro/THX24.png" alt="Snapshot02"></p><p><img src="/images/thx_pro/THX23.png" alt="Snapshot03"></p><p><img src="/images/thx_pro/THX20.png" alt="Snapshot04"></p><h2 id="版本与下载"><a href="#版本与下载" class="headerlink" title="版本与下载"></a>版本与下载</h2><p>当前版本：ver 1.00，支援ver 1.00b<br><a href="https://pan.baidu.com/s/17u2j4zb1r0yvCtwsqrglJg" target="_blank" rel="noopener">百度网盘下载（提取码：fspr）</a></p><h2 id="十分简短的Staff"><a href="#十分简短的Staff" class="headerlink" title="十分简短的Staff"></a>十分简短的Staff</h2><p>原作：SlimeSmile<br>原程序：SeiweLL<br>皮肤设计&amp;制作：小炎 (Yanstime)</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 游戏 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 东方 </tag>
+            
+            <tag> 同人 </tag>
+            
+            <tag> 东方魔改 </tag>
+            
+            <tag> 皮肤 </tag>
+            
         </tags>
       
     </entry>
